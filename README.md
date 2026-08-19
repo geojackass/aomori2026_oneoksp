@@ -2,7 +2,6 @@
 
 ![top_image](docs/img/pp1.png "oneoksp")
 ### 資料は下記URLからご覧ください
-### 資料は下記URLからご覧ください
 - 特別講義(GithubPages) https://geojackass.github.io/aomori2026_oneoksp/
 
 - Dockerで環境を構築する場合は，pythonとRの必要ライブラリが使用可能となります．

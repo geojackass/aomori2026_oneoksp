@@ -7,7 +7,7 @@
 - Dockerで環境を構築する場合は，pythonとRの必要ライブラリが使用可能となります．
 - https://hub.docker.com/r/geojackass/orihime
 
-orihime:sweet_melodyのbuildはDokcerfileを参照してください．ORHIME:amagigoe 織姫:天城越 は県庁様限りでの公開となります。何卒、御容赦願います。
+orihime:sweet_melodyのbuildはDokcerfileを参照してください．ORIHIME:amagigoe 織姫:天城越 は県庁様限りでの公開となります。何卒、御容赦願います。
 
 License
 =======
